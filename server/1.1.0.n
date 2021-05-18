@@ -1,0 +1,17 @@
+Update:  [1.1.0]
+Update name: C.L.O.R.
+
+Bot Changelog:
+- Cleaning up some version [1.0.0] errors 
+
+- Added a monthly Changelog
+
+- Added a new command <!botinfo>, this is a work in process but right now it consists of a working version, a changelog, and uptime counter, and a prefix display. expected to add socials and dynamic help system ( furthermore down below ) 
+
+- Started adding Moderation commands such as Kick, Ban, or slow mode that add a variety of options to either message a recently kicked/banned member or a useful tool to keep the server calm and prevent drama. 
+
+- Automatic role assignment in [rules] now done by our own bot instead of YAGPDB. 
+
+- Working on a transcription command so recent events can be stored in free HTML files located on HEROKU or a local database
+
+- messaging back and forward between an all-round developer who can teach me how to set up a dashboard while learning the basics of HTML and css. 
