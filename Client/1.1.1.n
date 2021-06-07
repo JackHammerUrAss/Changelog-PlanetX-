@@ -1,0 +1,7 @@
+Update:  [1.1.0]
+Update name: C.L.O.R.
+
+Bot Changelog:
+- Changed bot Info, it now includes the planetX website link 
+
+- more coming soon
